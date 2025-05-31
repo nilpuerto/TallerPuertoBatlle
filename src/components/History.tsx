@@ -1,4 +1,3 @@
-
 import { useEffect, useRef, useState } from 'react';
 
 export const History = () => {
@@ -37,22 +36,19 @@ export const History = () => {
           <div className={`bg-white/10 backdrop-blur-sm rounded-3xl p-8 md:p-12 shadow-lg border border-white/20 transition-all duration-1000 delay-300 ${isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-12'}`}>
             <div className="prose prose-lg max-w-none">
               <p className="text-white/90 leading-relaxed mb-6 text-lg">
-                El Taller Puerto Batlle va començar fa més de 50 anys gràcies a la visió i dedicació del nostre fundador, 
-                <span className="font-semibold text-white"> Delfin Puerto Batlle</span>, qui va iniciar aquesta aventura amb una clara passió per la mecànica industrial i un compromís ferm amb la qualitat del servei.
+                El Taller Puerto Batlle va començar fa més de 50 anys, quan en <span className="font-semibold text-white">Delfin Puerto Murillo</span> i el seu fill <span className="font-semibold text-white">Jordi Puerto Batlle</span> van decidir posar-se mans a l’obra i aixecar un petit taller familiar. Amb esforç, constància i molta dedicació, van anar construint el negoci pas a pas, sempre amb la mirada posada en el servei proper i honest als clients de la comarca.
               </p>
               
               <p className="text-white/90 leading-relaxed mb-6 text-lg">
-                Des de llavors, hem crescut i evolucionat, adaptant-nos a les noves tecnologies i mantenint sempre els nostres valors fonamentals: 
-                <span className="font-semibold text-white"> professionalitat, honestedat i un tracte proper</span> amb els nostres clients.
+                Amb el temps, el taller ha anat creixent i adaptant-se a les noves tecnologies, però sense perdre mai l’essència de la feina ben feta i el tracte de confiança. La professionalitat, la sinceritat i el compromís amb la gent de la zona han estat sempre els nostres pilars.
               </p>
               
               <p className="text-white/90 leading-relaxed mb-6 text-lg">
-                Actualment, el taller està dirigit per <span className="font-semibold text-white">Jordi Puerto Batlle</span>, qui compta amb un extens títol en mecànica industrial i ha seguit els passos del seu pare per mantenir i millorar l'excel·lència del negoci familiar.
+                Avui dia, el taller segueix sent un negoci familiar, amb en Jordi al capdavant, que ha après l’ofici de ben petit i manté viu l’esperit de superació i servei que el seu pare li va transmetre.
               </p>
               
               <p className="text-white/90 leading-relaxed text-lg font-medium">
-                Amb més de cinc dècades d'experiència, continuem compromesos amb oferir el millor servei de reparació per a vehicles industrials a la zona de 
-                <span className="font-semibold text-white"> Santa Coloma de Farners i rodalies</span>.
+                Després de més de cinc dècades, continuem treballant amb la mateixa il·lusió per oferir el millor servei de reparació i manteniment de vehicles industrials a <span className="font-semibold text-white">Santa Coloma de Farners i rodalies</span>.
               </p>
             </div>
           </div>

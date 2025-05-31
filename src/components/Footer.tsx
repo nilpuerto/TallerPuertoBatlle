@@ -41,7 +41,7 @@ export const Footer = () => {
                 href="tel:972820905" 
                 className="block text-blue-100 hover:text-white transition-colors text-lg"
               >
-                972 82 09 05
+                972 84 09 05
               </a>
               <a 
                 href="mailto:puertobatlle@hotmail.com?subject=Consulta sobre reparació de camions&body=Hola, m'agradaria fer una consulta sobre els vostres serveis de reparació." 
