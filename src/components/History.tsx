@@ -37,7 +37,7 @@ export const History = () => {
           <div className={`bg-white/10 backdrop-blur-sm rounded-3xl p-8 md:p-12 shadow-lg border border-white/20 transition-all duration-1000 delay-300 ${isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-12'}`}>
             <div className="prose prose-lg max-w-none">
               <p className="text-white/90 leading-relaxed mb-6 text-lg">
-                El Taller Puerto Batlle va començar fa 52 anys gràcies a la visió i dedicació del nostre fundador, 
+                El Taller Puerto Batlle va començar fa més de 50 anys gràcies a la visió i dedicació del nostre fundador, 
                 <span className="font-semibold text-white"> Delfin Puerto Batlle</span>, qui va iniciar aquesta aventura amb una clara passió per la mecànica industrial i un compromís ferm amb la qualitat del servei.
               </p>
               
